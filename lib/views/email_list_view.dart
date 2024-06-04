@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 import '../models/data.dart' as data;
 import '../models/models.dart';
-import 'email_widget.dart';
-import 'search_bar.dart' as search_bar;
+import '../widgets/email_widget.dart';
+import '../widgets/search_bar.dart' as search_bar;
 
 class EmailListView extends StatelessWidget {
   const EmailListView({
